@@ -1,1 +1,2 @@
 nginx
+eipwork/kuboard:v3
