@@ -1,2 +1,3 @@
 nginx
 eipwork/kuboard:v3
+jenkins
